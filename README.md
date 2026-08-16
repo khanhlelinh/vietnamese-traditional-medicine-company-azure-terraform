@@ -1,5 +1,7 @@
 # Vietnamese-Traditional-Medicine-Company Azure Cloud Migration - Infrastructure as Code (Terraform)
 
+![Solution Architecture](LeKhanhLinh-Vietnamese-Traditional-Medicine-Company-Azure-Solution-Architech.png)
+
 Dự án này chứa toàn bộ mã nguồn Terraform để triển khai hạ tầng chuẩn Enterprise Scale trên Microsoft Azure cho chiến dịch Cloud Migration của Vietnamese-Traditional-Medicine-Company, bao gồm 27 ứng dụng thuộc 4 nhóm hệ thống cốt lõi:
 1. Hệ thống Quản trị Doanh nghiệp (Core ERP)
 2. Hệ thống Quản lý Kênh Phân phối và Bán hàng (DMS)
